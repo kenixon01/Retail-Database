@@ -1,1 +1,1 @@
-# H-M-Database
+# Retail Database for H&M
