@@ -1,0 +1,15 @@
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('0685816001', 'Regular Fit Crew-neck T-shirt', '5.99', '500', 'Medium', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1002227003', 'Cargo Joggers', '39.99', '500', 'Large', 'Gray');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1013317002', 'Hybrid Regular Tapered Joggers', '44.99', '500', 'Large', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1019838001', 'Slim Fit Cotton Chinos', '29.99', '500', 'Small', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1038163001', 'Regular Fit Cotton Chino Shorts', '24.99', '500', 'Medium', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('0673281046', 'Cardigan with Zip', '34.99', '500', 'Medium', 'Yellow');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('0810710016', 'Muscle Fit Turtleneck Sweater', '29.99', '500', 'Small', 'Turquoise');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1041000001', 'Flounce-trimmed Dress', '49.99', '500', 'Small', 'Red');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1066650002', 'Satin Wrap-front Dress', '59.99', '500', 'Small', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1024041002', 'Long Denim Skirt', '34.99', '500', 'Large', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1086442002', 'Denim Mini Skirt', '29.99', '500', 'Small', 'Dark Blue');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1070465001', 'Pajama T-shirt and Shorts', '24.99', '500', 'Medium', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1109319001', 'Shiny Blouse', '29.99', '500', 'Large', 'Green');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1030655001', 'High Waist Hot Pants', '12.99', '500', 'Medium', 'Black');
+INSERT INTO `mydb`.`product availability` (`ProductID`, `ProductName`, `Price`, `InventoryCount`, `Size`, `Color`) VALUES ('1035021003', 'Water-repellent Parka', '99.00', '50', 'Large', 'Green');
