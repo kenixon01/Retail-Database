@@ -15,7 +15,7 @@ JOIN `mydb`.`product availability` AS PA ON ST.ProductID = PA.ProductID;
 
 #Total products that are black
 Select *
-FROM mydb.product availability
+FROM `mydb`.`product availability`
 Where Color = 'Black';
 
 #Products that above $30 and a size small
